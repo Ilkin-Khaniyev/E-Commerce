@@ -21,3 +21,21 @@ export const sliderItems = [
     bg: "fbf0f4",
   },
 ];
+
+export const categories = [
+  {
+    id: 1,
+    img: "https://cdn-fnknc.nitrocdn.com/jwqHRGAzpUgGskUSHlppNQzwuXgXIKwg/assets/static/optimized/rev-4c88ee3/wp-content/uploads/2021/11/Luca_Faloni_Moss-Green-Brushed-Cotton-Shirt_Editorial_Hero_Desktop_Made_in_Italy_2.jpeg",
+    title: "SHIRT STYLE!",
+  },
+  {
+    id: 2,
+    img: "https://images.bewakoof.com/uploads/grid/app/types-of-shirts-for-men-bewakoof-blog-5-1610963789.jpg",
+    title: "LOUNGEWEAR LOVE",
+  },
+  {
+    id: 3,
+    img: "https://www.apetogentleman.com/wp-content/uploads/2020/08/denimshirt-wear.jpg",
+    title: "LIGHT JACKETS",
+  },
+];

@@ -39,3 +39,38 @@ export const categories = [
     title: "LIGHT JACKETS",
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://cdn.dsmcdn.com/ty357/product/media/images/20220311/12/67916836/327384938/1/1_org_zoom.jpg",
+  },
+  {
+    id: 2,
+    img: "https://cdn.dsmcdn.com/ty527/product/media/images/20220909/14/171250666/561808850/1/1_org_zoom.jpg",
+  },
+  {
+    id: 3,
+    img: "https://cdn.dsmcdn.com/ty543/product/media/images/20220929/19/181435049/583226676/1/1_org_zoom.jpg",
+  },
+  {
+    id: 4,
+    img: "https://cdn.dsmcdn.com/ty549/product/media/images/20221005/3/186223839/589355972/1/1_org_zoom.jpg",
+  },
+  {
+    id: 5,
+    img: "https://cdn.dsmcdn.com/ty542/product/media/images/20220928/21/180995273/176767580/1/1_org_zoom.jpg",
+  },
+  {
+    id: 6,
+    img: "https://cdn.dsmcdn.com/ty541/product/media/images/20220929/3/181074967/582007359/1/1_org_zoom.jpg",
+  },
+  {
+    id: 7,
+    img: "https://cdn.dsmcdn.com/ty527/product/media/images/20220909/14/171250666/561808850/1/1_org_zoom.jpg",
+  },
+  {
+    id: 8,
+    img: "https://cdn.dsmcdn.com/ty543/product/media/images/20220929/19/181435049/583226676/1/1_org_zoom.jpg",
+  },
+];
